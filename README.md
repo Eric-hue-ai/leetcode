@@ -23,6 +23,7 @@ all code from leetcode
 | [0027-remove-element](https://github.com/Eric-hue-ai/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Eric-hue-ai/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Eric-hue-ai/leetcode/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -37,6 +38,7 @@ all code from leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eric-hue-ai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Eric-hue-ai/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
