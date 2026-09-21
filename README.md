@@ -39,6 +39,7 @@ all code from leetcode
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Eric-hue-ai/leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Eric-hue-ai/leetcode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ all code from leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Eric-hue-ai/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
