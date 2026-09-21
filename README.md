@@ -18,6 +18,7 @@ all code from leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eric-hue-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eric-hue-ai/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Eric-hue-ai/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -36,6 +37,7 @@ all code from leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eric-hue-ai/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Eric-hue-ai/leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
