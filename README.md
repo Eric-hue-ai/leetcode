@@ -30,6 +30,7 @@ all code from leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eric-hue-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eric-hue-ai/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Eric-hue-ai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,8 @@ all code from leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Eric-hue-ai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
