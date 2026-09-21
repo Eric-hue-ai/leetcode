@@ -7,6 +7,7 @@ all code from leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eric-hue-ai/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -28,10 +29,12 @@ all code from leetcode
 | [0001-two-sum](https://github.com/Eric-hue-ai/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eric-hue-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eric-hue-ai/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eric-hue-ai/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +43,8 @@ all code from leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eric-hue-ai/leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
