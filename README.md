@@ -11,6 +11,7 @@ all code from leetcode
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eric-hue-ai/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ all code from leetcode
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eric-hue-ai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -56,8 +58,21 @@ all code from leetcode
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eric-hue-ai/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eric-hue-ai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eric-hue-ai/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
