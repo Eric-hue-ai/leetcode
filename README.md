@@ -6,6 +6,7 @@ all code from leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eric-hue-ai/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -19,4 +20,8 @@ all code from leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Eric-hue-ai/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
