@@ -10,6 +10,7 @@ all code from leetcode
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Eric-hue-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Eric-hue-ai/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ all code from leetcode
 | [0020-valid-parentheses](https://github.com/Eric-hue-ai/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Eric-hue-ai/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Eric-hue-ai/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +55,7 @@ all code from leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/Eric-hue-ai/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Eric-hue-ai/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Eric-hue-ai/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
